@@ -1,0 +1,2 @@
+# TypeFastOriginal
+Original C++ TypeFast
